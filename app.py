@@ -13,14 +13,16 @@ question = st.text_input(
 
 if st.button("Run", type="primary") and question:
     with st.spinner("Thinking…"):
-        agent   = get_agent()
+        agent  = get_agent()
         result = agent.invoke({"input": question})
-        st.text(f"🛠️  Tools used: {[act.tool for act, _ in result['intermediate_steps']]}")
 
+    # — Debug: which tools did the agent call? —
+    st.text(f"🛠️  Tools used: {[act.tool for act, _ in result['intermediate_steps']]}")
 
+    # — Natural-language answer —
     st.success(result["output"])
 
-    # ── NEW: grab the first pandas DataFrame in intermediate steps ──
+    # — First DataFrame returned by query_with_df (if any) —
     df = next(
         (
             obs
@@ -29,4 +31,11 @@ if st.button("Run", type="primary") and question:
         ),
         None,
     )
-    choose_visual(df)
+
+    # — Show either a chart/table or an error message —
+    if df is None:
+        st.info("No table output to visualise.")
+    elif "error" in df.columns:
+        st.error(df["error"][0])
+    else:
+        choose_visual(df)

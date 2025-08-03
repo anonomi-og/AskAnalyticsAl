@@ -21,7 +21,7 @@ from langchain_openai import ChatOpenAI
 from langchain.agents import initialize_agent, AgentType
 from langchain_community.utilities import SQLDatabase
 from langchain.tools import Tool
-
+from sqlalchemy.exc import SQLAlchemyError
 load_dotenv()
 
 
@@ -39,13 +39,16 @@ def query_with_df(sql: str, db: SQLDatabase) -> "pd.DataFrame":
     if not sql.strip().lower().startswith("select"):
         raise ValueError("Only SELECT statements are allowed.")
 
-    # NEW — grab the engine safely
     engine = getattr(db, "engine", None) or getattr(db, "_engine")
-    if engine is None:
-        raise AttributeError("SQLDatabase engine not found")
 
-    with engine.connect() as conn:
-        return pd.read_sql(text(sql), conn)
+    try:
+        with engine.connect() as conn:
+            return pd.read_sql(text(sql), conn)
+    except SQLAlchemyError as e:        # ← catch BigQuery 404 etc.
+        # Return the error string so the agent can react
+        return pd.DataFrame(
+            {"error": [str(e.__cause__ or e)]}
+        )
 
 
 
@@ -93,12 +96,15 @@ def get_agent():
     # System prompt enforces correct behaviour
     prefix = (
         "You are an expert data analyst. "
+        "Here is the ONLY table you can query: SampleCustomerTable.\n\n"
         "To answer a user question you MUST:\n"
         "1. decide the SQL you need,\n"
         "2. run it using the `query_with_df` tool,\n"
         "3. summarise or visualise the DataFrame result.\n"
-        "Never rely on sample rows in the schema output."
+        "If the question requires data that isn't in SampleCustomerTable, "
+        "explain that politely instead of querying.\n"
     )
+
     suffix = (
         "When you have the answer, respond with a clear sentence. "
         "Do NOT output SQL unless the user explicitly asks for it."
