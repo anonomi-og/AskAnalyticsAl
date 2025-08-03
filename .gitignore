@@ -1,0 +1,50 @@
+# ----------------
+# Python cache files
+# ----------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ----------------
+# Environment and package management
+# ----------------
+.env
+.venv/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ----------------
+# Secrets and credentials
+# ----------------
+secrets/*.json
+
+# ----------------
+# Jupyter notebooks (optional)
+# ----------------
+.ipynb_checkpoints/
+*.ipynb
+
+# ----------------
+# Streamlit
+# ----------------
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# ----------------
+# VS Code settings (optional, if you use VS Code)
+# ----------------
+.vscode/
+
+# ----------------
+# Mac/Linux/Windows system files
+# ----------------
+.DS_Store
+Thumbs.db
+
+# ----------------
+# Compiled files or artifacts
+# ----------------
+*.l*
