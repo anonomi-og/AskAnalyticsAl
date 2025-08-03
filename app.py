@@ -1,4 +1,3 @@
-# app.py   (changes marked ✱)
 import streamlit as st
 from agents import get_agent
 from viz import choose_visual
@@ -9,25 +8,23 @@ st.title("Ask your customer data")
 
 question = st.text_input(
     "Natural-language question",
-    placeholder="e.g. Show a breakdown of contract types",
+    placeholder="e.g. Show me a breakdown of contract types",
 )
 
 if st.button("Run", type="primary") and question:
     with st.spinner("Thinking…"):
         agent   = get_agent()
-        result  = agent(question)        # ✱ call the agent as a function
-                                          #   to keep intermediate steps
+        result  = agent(question)
 
-    # ── Extract answer text ───────────────────────────────────────────
-    answer_text = result["output"]
+    st.success(result["output"])
 
-    # ── Extract DataFrame (if any) ────────────────────────────────────
-    df = None
-    for act, obs in result["intermediate_steps"]:
-        if act.tool == "query_with_df":   # ✱ our DataFrame tool
-            df = obs                      # obs *is* the pandas DataFrame
-            break
-
-    # ── Display ───────────────────────────────────────────────────────
-    st.success(answer_text)
+    # ── NEW: grab the first pandas DataFrame in intermediate steps ──
+    df = next(
+        (
+            obs
+            for act, obs in result["intermediate_steps"]
+            if act.tool == "query_with_df" and isinstance(obs, pd.DataFrame)
+        ),
+        None,
+    )
     choose_visual(df)
