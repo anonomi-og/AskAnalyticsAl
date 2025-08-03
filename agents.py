@@ -34,16 +34,19 @@ def make_sql_db() -> SQLDatabase:
     return SQLDatabase(create_engine(uri))
 
 
-def query_with_df(sql: str, db: SQLDatabase) -> "pd.DataFrame":  # noqa: F821
-    """
-    Execute SELECT *or aggregate* SQL against BigQuery and return a pandas DataFrame.
-    """
+def query_with_df(sql: str, db: SQLDatabase) -> "pd.DataFrame":
     import pandas as pd
-
     if not sql.strip().lower().startswith("select"):
         raise ValueError("Only SELECT statements are allowed.")
-    with db.engine.connect() as conn:
+
+    # NEW — grab the engine safely
+    engine = getattr(db, "engine", None) or getattr(db, "_engine")
+    if engine is None:
+        raise AttributeError("SQLDatabase engine not found")
+
+    with engine.connect() as conn:
         return pd.read_sql(text(sql), conn)
+
 
 
 # ── Build the agent ────────────────────────────────────────────────
@@ -71,8 +74,11 @@ def get_agent():
     # Extra helpers so the model can discover table & column names
     schema_tool = Tool(
         name="sql_db_schema",
-        description="Get the schema (DDL) for a given table name.",
-        func=lambda table: db.get_table_info(table),
+        description="Get the schema (DDL) for one or more tables. "
+                    "Input should be a single table name or a comma-separated list.",
+        func=lambda t: db.get_table_info(
+            [tbl.strip() for tbl in t.split(",")]
+        ),
         return_direct=False,
     )
     tables_tool = Tool(
@@ -101,7 +107,7 @@ def get_agent():
     get_agent._agent = initialize_agent(
         tools,
         llm,
-        agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
+        agent=AgentType.OPENAI_FUNCTIONS,
         verbose=True,
         return_intermediate_steps=True,
         agent_kwargs={"prefix": prefix, "suffix": suffix},

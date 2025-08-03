@@ -14,7 +14,9 @@ question = st.text_input(
 if st.button("Run", type="primary") and question:
     with st.spinner("Thinking…"):
         agent   = get_agent()
-        result  = agent(question)
+        result = agent.invoke({"input": question})
+        st.text(f"🛠️  Tools used: {[act.tool for act, _ in result['intermediate_steps']]}")
+
 
     st.success(result["output"])
 
