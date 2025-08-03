@@ -1,0 +1,501 @@
+CustomerNBR,JoinDate,ContractType,PaymentMethod,Status,TariffType,MonthlyUsage_kWh,Email,PhoneNumber,Postcode,DOB
+CUST100000,2021-07-13,Rolling,Direct Debit,Cancelled,Peak/Off-Peak,900.33,osbornejeffery@holmes.com,9177982708,18011,1948-02-27
+CUST100001,2020-10-18,Fixed,PayPal,Active,Green,220.78,lauriecontreras@hotmail.com,001-086-978-2922x1699,14939,1995-01-11
+CUST100002,2022-12-04,Fixed,Direct Debit,Cancelled,Green,553.79,usalazar@hotmail.com,866-934-6547x22698,08309,2003-02-04
+CUST100003,2022-09-01,Rolling,PayPal,Active,Economy,345.55,vmerritt@yahoo.com,858-333-9452x2885,46290,1939-01-11
+CUST100004,2022-06-26,Variable,Credit Card,Inactive,Peak/Off-Peak,827.93,karen48@yahoo.com,001-158-799-6846x081,47799,1974-01-16
+CUST100005,2021-10-09,Fixed,Credit Card,Cancelled,Green,397.62,scott43@rogers-orozco.com,6200342442,18765,1991-11-02
+CUST100006,2021-06-16,Fixed,PayPal,Inactive,Economy,758.01,jessebenson@lewis.info,4380571983,39127,1963-06-04
+CUST100007,2025-03-23,Fixed,Bank Transfer,Active,Peak/Off-Peak,683.46,clarkrobert@hotmail.com,001-863-840-6665x8004,60845,1964-12-02
+CUST100008,2021-04-29,Rolling,Bank Transfer,Cancelled,Peak/Off-Peak,746.74,wwoods@molina-castaneda.biz,973.598.9334,19393,1996-06-17
+CUST100009,2024-03-04,Fixed,Credit Card,Pending,Economy,112.68,brobinson@johnson-rogers.biz,212.281.6064x842,72787,1986-06-14
+CUST100010,2020-11-08,Rolling,Credit Card,Pending,Peak/Off-Peak,403.4,ncalhoun@johnson.com,(940)572-0259,55692,1950-03-03
+CUST100011,2020-11-02,Rolling,Direct Debit,Cancelled,Peak/Off-Peak,365.52,dtaylor@williams.com,9479851583,32285,1961-03-15
+CUST100012,2021-05-20,Rolling,Credit Card,Active,Green,706.96,wmurphy@ramirez-bean.biz,(818)268-8615,28122,1998-06-30
+CUST100013,2022-06-12,Fixed,PayPal,Pending,Green,273.85,ruizkaitlyn@gmail.com,355.543.9878,29938,1951-07-10
+CUST100014,2022-07-25,Rolling,Bank Transfer,Cancelled,Green,649.86,debraharrington@hotmail.com,001-015-739-9305x61648,07823,1982-04-22
+CUST100015,2024-11-19,Variable,Bank Transfer,Pending,Economy,674.85,herringjames@howell.com,001-408-588-7704x3581,98411,1997-09-23
+CUST100016,2020-10-23,Fixed,Direct Debit,Cancelled,Standard,464.94,elliottjeffery@hotmail.com,288-013-3613,18562,1990-10-15
+CUST100017,2025-05-11,Fixed,Bank Transfer,Active,Peak/Off-Peak,484.93,gary91@gmail.com,+1-612-075-0110,15867,1988-06-15
+CUST100018,2022-04-11,Fixed,Bank Transfer,Active,Economy,395.13,lanesarah@hotmail.com,(481)934-6676,91698,1935-08-16
+CUST100019,2025-03-22,Fixed,PayPal,Inactive,Standard,460.75,mdavid@gmail.com,(506)180-9190x15814,92770,1985-07-29
+CUST100020,2024-02-26,Fixed,Bank Transfer,Pending,Standard,185.85,terrykevin@burke.com,+1-491-476-6072x83268,19254,1965-01-23
+CUST100021,2022-06-17,Rolling,Direct Debit,Inactive,Economy,983.52,estanley@hotmail.com,245-088-2100x9968,49975,2003-08-31
+CUST100022,2024-05-28,Rolling,Direct Debit,Active,Standard,529.71,atkinsonlynn@gmail.com,+1-143-536-8222,96587,1973-03-09
+CUST100023,2022-12-14,Fixed,Bank Transfer,Cancelled,Green,942.24,cynthia72@yahoo.com,943.129.0878,03954,1971-01-03
+CUST100024,2020-08-22,Rolling,Credit Card,Active,Economy,106.15,christina87@graham-simon.com,414-139-7552,91743,1970-08-02
+CUST100025,2021-12-11,Fixed,Bank Transfer,Active,Peak/Off-Peak,445.22,mariahmiller@yahoo.com,+1-314-913-5775x94929,56168,1976-06-03
+CUST100026,2024-03-07,Rolling,Direct Debit,Cancelled,Green,502.06,qhudson@rogers-snyder.com,001-556-205-3364,49218,1991-01-11
+CUST100027,2023-06-25,Rolling,Direct Debit,Inactive,Peak/Off-Peak,340.29,zlewis@peterson-beard.com,(257)775-4781x291,07589,1967-06-18
+CUST100028,2022-12-13,Rolling,PayPal,Pending,Standard,396.66,christophercortez@peters-allen.info,283-411-0809x969,92435,1935-02-25
+CUST100029,2021-11-28,Rolling,Bank Transfer,Active,Green,624.21,fmcguire@yahoo.com,084.887.2563,14395,1991-01-03
+CUST100030,2022-06-01,Variable,Bank Transfer,Active,Peak/Off-Peak,615.59,tholt@perkins.biz,001-942-788-1658x03928,87368,1939-01-13
+CUST100031,2023-06-13,Fixed,PayPal,Pending,Economy,335.4,jacqueline44@yahoo.com,(722)992-7503,76733,1936-09-13
+CUST100032,2021-06-15,Variable,Direct Debit,Active,Standard,423.6,griffithleslie@herrera.com,001-731-453-0385x67700,10170,1938-02-27
+CUST100033,2021-05-17,Rolling,PayPal,Pending,Peak/Off-Peak,312.67,jenny89@yahoo.com,+1-518-449-8926x6591,62999,1955-06-18
+CUST100034,2023-10-26,Variable,Credit Card,Pending,Standard,701.01,kennethward@smith-ferguson.com,463.865.5779x08272,78348,1985-07-17
+CUST100035,2021-05-29,Fixed,Bank Transfer,Pending,Peak/Off-Peak,518.86,tranheidi@little.com,184.322.2591,21233,2005-03-20
+CUST100036,2023-08-22,Fixed,Direct Debit,Cancelled,Economy,243.75,taylor75@sheppard.info,+1-365-177-7392x60302,04457,1977-10-17
+CUST100037,2023-07-06,Rolling,PayPal,Inactive,Green,717.47,moralescharles@parks.com,001-922-809-2024,19753,1980-03-11
+CUST100038,2022-11-01,Variable,Direct Debit,Inactive,Peak/Off-Peak,930.8,davidduran@carlson.biz,(869)904-1379,48374,1957-10-12
+CUST100039,2020-12-14,Variable,Credit Card,Cancelled,Standard,899.02,levans@yahoo.com,723.692.9298x4257,19018,1993-02-10
+CUST100040,2024-06-29,Variable,Bank Transfer,Inactive,Economy,792.86,lynchjody@gmail.com,+1-913-662-1038x862,10854,1967-07-02
+CUST100041,2025-02-23,Fixed,PayPal,Inactive,Green,721.26,donna23@arnold.com,+1-127-990-8811x729,32619,1987-11-07
+CUST100042,2021-08-24,Fixed,Direct Debit,Inactive,Standard,674.84,enorris@yahoo.com,+1-068-650-8637,10602,1960-10-22
+CUST100043,2023-10-22,Variable,Bank Transfer,Active,Economy,946.57,keithcampbell@jones-hall.com,001-659-916-2473x14986,02136,1988-02-12
+CUST100044,2021-04-03,Fixed,Bank Transfer,Cancelled,Standard,430.79,owilson@hernandez.com,300-981-8063x565,75104,1941-08-10
+CUST100045,2025-04-13,Fixed,Direct Debit,Inactive,Economy,298.76,brooke94@martinez-barker.biz,269-448-6959,55091,1992-12-26
+CUST100046,2023-01-29,Variable,Bank Transfer,Cancelled,Green,961.62,mkim@gmail.com,636-887-2588x744,20124,1952-02-16
+CUST100047,2023-08-30,Fixed,Bank Transfer,Inactive,Green,530.36,cassandra01@gmail.com,001-562-137-2138,24411,1987-09-21
+CUST100048,2025-06-30,Variable,PayPal,Inactive,Standard,509.48,barbara27@pearson.org,(589)026-0127x9611,62074,1958-03-25
+CUST100049,2022-03-22,Variable,Bank Transfer,Cancelled,Economy,989.95,ecosta@yahoo.com,351-906-6984x902,97960,1989-06-14
+CUST100050,2021-03-06,Rolling,PayPal,Pending,Peak/Off-Peak,436.26,manuel12@yahoo.com,+1-770-384-3098x8392,18865,1977-11-19
+CUST100051,2020-12-22,Variable,Bank Transfer,Cancelled,Green,731.75,zroberts@hotmail.com,+1-053-021-4656x69380,98556,2004-12-26
+CUST100052,2022-07-11,Fixed,Credit Card,Pending,Peak/Off-Peak,921.52,qmiller@wilson-barton.net,001-118-489-5543x9376,69634,1956-02-25
+CUST100053,2023-01-18,Rolling,Credit Card,Active,Peak/Off-Peak,781.62,mgutierrez@cox.com,001-042-681-8184,92063,1994-02-12
+CUST100054,2021-04-06,Variable,PayPal,Cancelled,Standard,821.8,andrea47@washington.com,184-894-7697x35779,39758,1966-01-08
+CUST100055,2022-07-26,Rolling,PayPal,Pending,Standard,843.04,andrea86@walker.info,7141633565,62129,1948-02-21
+CUST100056,2021-06-11,Fixed,Credit Card,Inactive,Standard,785.67,tyronemoran@thornton.info,804.341.6518x27553,54440,1951-10-12
+CUST100057,2023-10-27,Variable,Bank Transfer,Active,Economy,712.31,yarnold@weeks.com,001-423-733-3433,95208,2003-03-20
+CUST100058,2022-12-13,Fixed,PayPal,Cancelled,Green,636.23,kendra65@adams.org,395.211.1790,44716,1950-09-12
+CUST100059,2024-06-10,Rolling,Direct Debit,Pending,Green,808.63,seanwashington@yahoo.com,001-807-595-7947x28463,58693,1987-12-10
+CUST100060,2023-09-09,Variable,Bank Transfer,Pending,Peak/Off-Peak,572.96,mcantu@hotmail.com,001-920-867-8085x62718,85022,1970-01-02
+CUST100061,2021-12-20,Rolling,Bank Transfer,Cancelled,Standard,575.36,xhall@williams-garner.biz,500.369.1559x428,91628,1956-03-26
+CUST100062,2023-09-26,Rolling,Credit Card,Pending,Economy,425.61,tylerjohnson@hotmail.com,347-955-2763x655,02232,1978-06-19
+CUST100063,2023-08-10,Variable,PayPal,Cancelled,Green,925.52,sawyerscott@hotmail.com,(472)929-3143x8663,38088,1962-04-27
+CUST100064,2022-05-14,Rolling,Bank Transfer,Pending,Economy,200.99,bowenrobert@hotmail.com,(270)267-2885,15084,1947-04-12
+CUST100065,2022-11-09,Fixed,PayPal,Inactive,Standard,845.9,harrisontanya@hanson-sanders.com,448.906.1203x4717,20933,1947-04-13
+CUST100066,2021-03-11,Rolling,PayPal,Cancelled,Standard,912.6,ofinley@hotmail.com,001-545-588-4506x1593,08365,1938-01-28
+CUST100067,2022-01-15,Fixed,PayPal,Cancelled,Green,281.94,williamsonjimmy@hotmail.com,001-982-455-8771,84708,1994-02-13
+CUST100068,2025-02-16,Fixed,Credit Card,Active,Peak/Off-Peak,582.99,juliehamilton@gmail.com,(947)225-6996x1125,04710,1936-02-27
+CUST100069,2022-09-01,Rolling,PayPal,Inactive,Peak/Off-Peak,248.08,tjackson@williams.com,554.496.4759,79691,1955-06-02
+CUST100070,2021-12-22,Fixed,Credit Card,Cancelled,Standard,869.04,ryan38@yahoo.com,762.202.3413x26111,98953,1938-05-16
+CUST100071,2024-07-08,Variable,Direct Debit,Pending,Standard,497.66,gregorylynch@harvey-allen.org,800.681.1492x1643,23252,1945-04-22
+CUST100072,2023-10-24,Fixed,Bank Transfer,Pending,Peak/Off-Peak,712.27,stevenking@estrada-nolan.info,472.282.0055,66468,1986-08-19
+CUST100073,2022-11-18,Fixed,Bank Transfer,Pending,Standard,745.23,charleslandry@hotmail.com,784.872.8299x7968,21518,1938-01-11
+CUST100074,2025-04-28,Fixed,Direct Debit,Active,Green,539.95,dvaughn@yahoo.com,+1-845-783-1745x6424,01925,1952-05-09
+CUST100075,2022-06-15,Variable,Credit Card,Cancelled,Green,909.0,gcastaneda@james.org,0825478077,52456,1996-05-02
+CUST100076,2023-05-06,Variable,Bank Transfer,Pending,Economy,500.93,andrew64@gmail.com,064-930-8536x8663,56025,1983-04-30
+CUST100077,2021-01-22,Variable,Credit Card,Active,Peak/Off-Peak,150.07,swall@lawson.com,(663)416-3894,89617,1959-12-23
+CUST100078,2022-07-14,Rolling,Credit Card,Active,Standard,218.75,erica21@lucas.org,846-312-2417x9749,60046,1967-03-19
+CUST100079,2020-11-09,Variable,Credit Card,Cancelled,Economy,473.88,christopherphillips@hotmail.com,350.208.0214x4270,73135,1964-10-07
+CUST100080,2023-04-09,Fixed,Direct Debit,Pending,Green,607.52,jamesbuchanan@yahoo.com,120.735.6475,93746,1974-12-31
+CUST100081,2023-12-31,Variable,Direct Debit,Inactive,Peak/Off-Peak,602.92,jonathansummers@yahoo.com,051.204.6187x234,34324,1960-12-19
+CUST100082,2022-11-11,Variable,Credit Card,Pending,Green,705.49,linda71@gmail.com,(013)673-0371x8376,75482,2007-06-16
+CUST100083,2021-02-23,Fixed,PayPal,Inactive,Standard,377.35,zcoffey@diaz.net,+1-452-088-1474x35031,66282,1967-12-19
+CUST100084,2022-05-19,Rolling,Direct Debit,Inactive,Economy,119.59,vrichardson@baker.com,650.249.1630,40613,1986-01-17
+CUST100085,2025-05-30,Variable,PayPal,Pending,Standard,329.01,thomasharvey@murphy.info,9792513271,93477,1970-01-14
+CUST100086,2023-04-06,Rolling,PayPal,Inactive,Standard,102.71,cwilson@gmail.com,+1-950-052-8127x35857,30295,1941-08-18
+CUST100087,2022-05-24,Rolling,Credit Card,Active,Peak/Off-Peak,296.11,pwilson@hotmail.com,001-306-524-0778x4873,56032,1972-01-04
+CUST100088,2024-10-31,Rolling,PayPal,Active,Peak/Off-Peak,165.73,qchavez@horton.com,001-285-574-9821,21053,1945-11-17
+CUST100089,2023-12-14,Fixed,PayPal,Pending,Standard,481.33,basschristina@yahoo.com,274.485.7086x20959,36129,1954-02-25
+CUST100090,2024-06-27,Rolling,PayPal,Cancelled,Peak/Off-Peak,730.35,jeff73@garcia-jennings.net,518.638.7829,12551,1937-09-26
+CUST100091,2021-10-19,Rolling,Credit Card,Active,Economy,587.05,sandersjames@gmail.com,565-118-1022x0317,68855,1948-08-29
+CUST100092,2022-11-02,Fixed,Credit Card,Pending,Economy,154.23,batesdarlene@hotmail.com,109.678.9940,49988,1949-09-07
+CUST100093,2021-10-09,Rolling,Direct Debit,Inactive,Standard,904.8,buchananjohn@buchanan.com,(391)037-1705x865,16902,1997-01-27
+CUST100094,2022-09-07,Rolling,Direct Debit,Active,Economy,987.52,lisahall@kramer.com,001-094-801-4138x113,97905,1951-04-14
+CUST100095,2025-05-12,Fixed,PayPal,Pending,Standard,524.86,vanessafernandez@gmail.com,+1-633-839-2886,28270,1949-02-27
+CUST100096,2025-03-03,Fixed,Credit Card,Pending,Economy,358.38,andersonmichael@chapman.com,001-195-761-2286x8528,52982,1953-11-21
+CUST100097,2022-10-27,Variable,Credit Card,Cancelled,Green,261.98,martinezrobert@gmail.com,+1-755-855-6659x398,81640,1973-01-11
+CUST100098,2025-07-23,Variable,PayPal,Inactive,Standard,221.89,xwest@wheeler.org,684.577.6004,07840,1970-03-30
+CUST100099,2024-03-25,Variable,Direct Debit,Inactive,Economy,677.37,stephen00@boone-simmons.com,+1-082-404-3350x488,29193,1959-03-04
+CUST100100,2025-07-19,Rolling,Credit Card,Inactive,Green,756.36,fjones@yahoo.com,+1-992-107-5224,51919,1947-03-19
+CUST100101,2023-12-25,Rolling,Direct Debit,Pending,Standard,967.4,martinezclaudia@kelley.net,(933)441-9693x157,24578,1945-02-12
+CUST100102,2023-08-31,Rolling,PayPal,Pending,Economy,437.01,bwagner@gmail.com,(791)940-9610,98280,2001-11-08
+CUST100103,2022-06-14,Fixed,Credit Card,Inactive,Economy,902.2,russellbeasley@morgan-chavez.biz,001-556-613-9060x48058,73808,1983-10-10
+CUST100104,2021-10-05,Rolling,PayPal,Pending,Green,503.68,ronald45@mcdaniel.com,001-258-320-6799,79810,1962-11-22
+CUST100105,2024-12-02,Variable,Bank Transfer,Cancelled,Peak/Off-Peak,925.4,daviscolin@watson.net,136.462.2517x90864,10620,1987-10-10
+CUST100106,2024-10-13,Fixed,PayPal,Pending,Peak/Off-Peak,439.75,jenkinsmorgan@yahoo.com,686-227-8376,91258,1948-04-15
+CUST100107,2021-05-11,Fixed,PayPal,Pending,Green,172.22,caroline51@romero.com,+1-938-983-3146x5911,61899,2001-06-01
+CUST100108,2020-12-26,Fixed,PayPal,Active,Green,967.73,danny49@gmail.com,+1-665-535-5904x25979,63076,1937-07-29
+CUST100109,2021-07-08,Variable,Credit Card,Cancelled,Standard,887.1,lynchdiane@hotmail.com,(703)352-1103,41551,1990-11-24
+CUST100110,2021-11-19,Variable,PayPal,Active,Peak/Off-Peak,219.69,whitejacqueline@yahoo.com,+1-240-514-7705x383,86051,1944-08-07
+CUST100111,2021-12-12,Variable,PayPal,Inactive,Standard,874.26,adam29@hotmail.com,884.879.2069,84634,2000-10-19
+CUST100112,2024-03-05,Fixed,Bank Transfer,Inactive,Economy,206.77,thomascynthia@gmail.com,+1-804-204-3940x70164,53598,1944-12-21
+CUST100113,2021-02-15,Fixed,Credit Card,Cancelled,Green,993.56,nicholaschavez@wood.com,+1-510-463-6815x79812,50369,1963-03-17
+CUST100114,2023-11-10,Rolling,Bank Transfer,Pending,Standard,453.75,moorekaren@craig.info,878.003.8457,22104,1991-09-26
+CUST100115,2023-10-31,Rolling,PayPal,Active,Green,214.61,alawson@yahoo.com,(205)554-3840x4608,07666,1985-08-28
+CUST100116,2024-07-26,Variable,Credit Card,Cancelled,Standard,980.85,reeddaniel@gregory.com,325-621-6893x639,49191,1977-04-07
+CUST100117,2025-01-31,Fixed,Bank Transfer,Active,Economy,851.34,djoyce@harris.com,(649)578-2329,85258,1995-12-14
+CUST100118,2022-09-22,Rolling,PayPal,Pending,Economy,780.56,mark07@hotmail.com,+1-324-826-2925,56104,1956-07-06
+CUST100119,2025-04-16,Variable,Direct Debit,Active,Peak/Off-Peak,980.64,davidpatel@gmail.com,881-252-0566,26024,1959-01-22
+CUST100120,2020-09-06,Variable,Bank Transfer,Cancelled,Peak/Off-Peak,516.7,sandersjudy@yahoo.com,742-312-2099x4999,35879,1975-04-01
+CUST100121,2021-07-23,Rolling,Credit Card,Pending,Economy,747.18,umorse@patterson.com,933.051.7289,14709,1935-12-20
+CUST100122,2025-02-25,Variable,Bank Transfer,Pending,Standard,481.72,usmith@solis.info,526.772.2330x6046,14184,1958-11-27
+CUST100123,2022-11-08,Fixed,Bank Transfer,Cancelled,Green,441.35,kimdaniel@yahoo.com,331.279.7573,10699,1938-11-13
+CUST100124,2023-06-24,Variable,Bank Transfer,Pending,Economy,306.7,fosterkyle@yahoo.com,(609)656-9998x80817,48041,1950-07-16
+CUST100125,2021-07-14,Fixed,Direct Debit,Active,Economy,514.56,kimberly18@wilson.com,038.860.8680x347,79562,1981-03-30
+CUST100126,2023-01-30,Fixed,Credit Card,Inactive,Standard,239.61,joelthomas@gmail.com,(447)264-9082x7718,44471,1981-10-13
+CUST100127,2024-04-13,Rolling,Credit Card,Cancelled,Economy,269.63,kathleenrios@bean.info,298-266-5702,04177,2000-06-12
+CUST100128,2021-12-06,Rolling,Credit Card,Active,Economy,887.69,kmaldonado@hotmail.com,937.145.2111x751,31896,1935-04-09
+CUST100129,2024-06-11,Rolling,PayPal,Pending,Standard,788.94,edward17@yahoo.com,689.268.6025x92222,37490,1956-02-22
+CUST100130,2020-08-12,Variable,Credit Card,Inactive,Economy,129.0,brittany58@gmail.com,001-064-474-2123x09407,21834,2005-08-06
+CUST100131,2022-10-29,Rolling,Credit Card,Active,Peak/Off-Peak,694.18,dhayes@yahoo.com,780.973.3977x6719,71485,1969-03-23
+CUST100132,2024-11-04,Rolling,Direct Debit,Cancelled,Peak/Off-Peak,653.43,newmantiffany@gmail.com,+1-038-498-3022x050,14455,1951-02-19
+CUST100133,2022-02-08,Variable,PayPal,Pending,Peak/Off-Peak,942.61,ycarpenter@hotmail.com,(099)451-0162,09062,1960-10-31
+CUST100134,2024-11-26,Rolling,PayPal,Cancelled,Peak/Off-Peak,900.14,kstout@lopez.com,(499)982-7950,28276,1938-08-11
+CUST100135,2021-06-28,Variable,Bank Transfer,Active,Economy,316.6,shepherdmary@hotmail.com,455-616-8147,78765,2007-07-13
+CUST100136,2023-02-15,Variable,PayPal,Inactive,Green,160.56,benjaminzimmerman@warren-bishop.com,(145)868-3390,01939,1937-09-21
+CUST100137,2024-11-26,Fixed,PayPal,Active,Peak/Off-Peak,634.55,paul59@gmail.com,981-794-6954,99659,2005-01-31
+CUST100138,2022-04-11,Fixed,Direct Debit,Active,Peak/Off-Peak,501.8,riveraangela@yahoo.com,995.299.7877x29343,41017,2004-03-26
+CUST100139,2021-11-19,Rolling,Credit Card,Pending,Economy,704.82,jennifer92@yahoo.com,1071396605,25108,1955-04-28
+CUST100140,2023-10-07,Variable,PayPal,Cancelled,Economy,884.99,sabrinacollins@hale.com,(830)344-1448x850,72812,1964-01-10
+CUST100141,2021-12-16,Fixed,PayPal,Active,Standard,320.26,vschneider@gmail.com,556-990-2355,26941,1984-03-31
+CUST100142,2025-03-04,Fixed,Direct Debit,Active,Peak/Off-Peak,139.81,bromero@parker-bean.com,+1-770-272-7857x60849,84175,1950-03-18
+CUST100143,2025-02-04,Fixed,PayPal,Inactive,Standard,495.07,jeremytaylor@gmail.com,001-588-039-5512x4056,04743,1964-02-12
+CUST100144,2020-08-03,Fixed,PayPal,Inactive,Peak/Off-Peak,585.78,romeroamber@hotmail.com,+1-829-962-9145x0461,32002,1938-08-08
+CUST100145,2023-05-06,Rolling,Direct Debit,Cancelled,Green,778.95,nancy92@bennett.org,357.438.4215x0317,35781,1979-03-02
+CUST100146,2024-09-28,Fixed,Bank Transfer,Cancelled,Economy,798.46,xwilliams@ball.info,078.235.7845x21823,11647,1953-06-12
+CUST100147,2020-10-01,Rolling,Bank Transfer,Pending,Economy,226.12,kylestokes@mckee-lee.org,001-076-810-4091x5701,75228,1964-06-30
+CUST100148,2021-07-15,Variable,PayPal,Cancelled,Standard,994.14,xhammond@yahoo.com,409.435.3344x85714,74530,1945-12-10
+CUST100149,2023-09-03,Rolling,PayPal,Inactive,Standard,310.75,lisasolis@gmail.com,(241)098-8138,06382,1951-10-25
+CUST100150,2023-03-15,Fixed,Credit Card,Cancelled,Economy,924.76,davidsonmorgan@hotmail.com,(854)249-3214x958,74391,1971-01-02
+CUST100151,2022-08-15,Variable,PayPal,Active,Economy,618.5,mitchellkathryn@cole-palmer.biz,020.701.6016x629,63914,1971-11-01
+CUST100152,2021-01-28,Variable,Credit Card,Cancelled,Economy,619.73,lisawilkerson@perry.net,001-795-453-8179,06488,2000-02-17
+CUST100153,2022-08-20,Rolling,Bank Transfer,Cancelled,Peak/Off-Peak,795.28,paulmiller@gmail.com,(171)747-7332,06798,1961-09-14
+CUST100154,2025-05-30,Variable,PayPal,Pending,Peak/Off-Peak,836.54,sarah52@johnson.com,+1-456-255-7701x715,41733,1947-02-07
+CUST100155,2021-04-03,Rolling,PayPal,Active,Green,313.21,fgilbert@gmail.com,724.599.2816x1581,12718,1982-01-09
+CUST100156,2021-04-25,Variable,Direct Debit,Pending,Peak/Off-Peak,888.63,marydunn@hotmail.com,876-963-9382x7615,40950,1974-08-23
+CUST100157,2024-09-19,Rolling,PayPal,Inactive,Economy,987.13,parsonsjohn@gmail.com,966.958.3219,01612,1998-02-24
+CUST100158,2021-03-05,Fixed,Bank Transfer,Cancelled,Peak/Off-Peak,569.13,robertbauer@brown-copeland.info,199.758.1724x6191,47247,2002-01-24
+CUST100159,2025-02-12,Rolling,PayPal,Cancelled,Standard,472.2,jennifercarter@mendez.org,+1-965-701-3290x22784,99025,1993-12-07
+CUST100160,2021-08-27,Rolling,Credit Card,Inactive,Economy,347.64,elizabethmiller@yahoo.com,(997)335-4946x5190,37516,2004-05-11
+CUST100161,2021-09-04,Fixed,PayPal,Pending,Peak/Off-Peak,601.05,myerstheodore@hughes.com,+1-862-405-8008x514,52685,1989-01-07
+CUST100162,2024-08-17,Rolling,Credit Card,Active,Economy,632.5,john19@sherman.com,3696566668,66065,1960-11-10
+CUST100163,2025-04-06,Rolling,Direct Debit,Pending,Standard,761.69,epollard@white.info,272.386.5624,26044,1968-08-16
+CUST100164,2021-12-28,Variable,PayPal,Pending,Standard,257.62,james30@mahoney-robertson.net,+1-220-102-7621x26796,41719,1958-02-15
+CUST100165,2022-11-03,Rolling,Direct Debit,Active,Peak/Off-Peak,710.88,benjamin34@yahoo.com,+1-278-687-6532x690,99046,1961-07-08
+CUST100166,2025-01-27,Variable,Direct Debit,Cancelled,Economy,600.27,joshua56@paul-kline.biz,001-738-468-9500,51703,1972-11-03
+CUST100167,2024-03-08,Fixed,PayPal,Pending,Green,142.2,tylerjimenez@hotmail.com,001-751-971-2847,95618,1988-01-19
+CUST100168,2022-05-22,Variable,Credit Card,Inactive,Standard,409.97,acostachristian@hotmail.com,189.137.1894x90580,47141,1948-08-03
+CUST100169,2025-03-04,Variable,PayPal,Active,Green,678.98,manuel15@phillips.com,787.956.5442x0949,17477,1976-12-28
+CUST100170,2022-04-18,Fixed,Credit Card,Cancelled,Peak/Off-Peak,443.04,sergio59@yahoo.com,079-290-4904x712,92599,1957-02-17
+CUST100171,2023-03-28,Variable,Direct Debit,Active,Standard,572.02,jonesdana@yahoo.com,144.294.4401x92927,88933,1962-08-07
+CUST100172,2023-12-24,Fixed,Bank Transfer,Inactive,Green,726.68,thomascathy@johnson-jones.com,(243)728-0512x927,13264,2000-12-24
+CUST100173,2023-10-06,Rolling,PayPal,Active,Standard,467.43,cherring@hotmail.com,001-663-723-9504x10276,43927,1993-07-31
+CUST100174,2024-04-24,Rolling,Bank Transfer,Active,Green,369.9,xrush@hines-berry.net,478.366.7428x6047,53884,1995-04-23
+CUST100175,2024-12-27,Variable,Credit Card,Pending,Economy,265.49,redwards@gmail.com,(580)185-6945x4414,97684,1992-04-04
+CUST100176,2024-06-04,Rolling,PayPal,Inactive,Economy,584.14,fitzgeraldvictor@mcintyre-wilson.com,+1-967-393-8525x8001,66506,1971-07-24
+CUST100177,2021-08-12,Fixed,Bank Transfer,Inactive,Peak/Off-Peak,316.87,wendymitchell@yahoo.com,6181753443,13739,1977-12-20
+CUST100178,2022-09-11,Rolling,Bank Transfer,Inactive,Standard,302.81,taylorcharles@roach.com,0910939111,66322,1949-03-23
+CUST100179,2022-07-01,Fixed,PayPal,Active,Green,871.79,jenna88@yahoo.com,+1-269-212-4471x746,20186,1986-09-20
+CUST100180,2021-02-16,Rolling,Bank Transfer,Inactive,Peak/Off-Peak,229.92,jenniferho@hotmail.com,001-542-140-6650x442,03605,1993-01-06
+CUST100181,2023-06-18,Variable,PayPal,Inactive,Economy,516.72,william13@young.com,173.962.7128x639,77463,1961-10-08
+CUST100182,2020-10-06,Rolling,Bank Transfer,Inactive,Economy,151.86,tanner82@hotmail.com,+1-174-101-1947x0720,50585,1982-08-14
+CUST100183,2025-04-18,Rolling,Direct Debit,Pending,Peak/Off-Peak,471.41,parkeryvonne@mendoza.org,6425690877,63016,1985-06-25
+CUST100184,2022-07-17,Rolling,PayPal,Inactive,Standard,474.86,teresaday@owens-holmes.com,(618)306-7198x55460,77356,1943-05-02
+CUST100185,2022-06-17,Fixed,Direct Debit,Active,Green,576.99,ryanbartlett@guerra.com,+1-158-517-4328x0634,05404,1995-10-01
+CUST100186,2020-08-24,Fixed,Direct Debit,Pending,Economy,449.58,fernandodonovan@gmail.com,001-615-717-3203x093,38527,1957-05-07
+CUST100187,2021-03-10,Variable,Bank Transfer,Inactive,Peak/Off-Peak,329.5,meghan43@hotmail.com,618.478.7005x0506,21632,1939-03-08
+CUST100188,2021-01-31,Fixed,Credit Card,Inactive,Economy,397.24,colleenmendez@gmail.com,387-829-3102,20363,2004-03-07
+CUST100189,2022-07-14,Rolling,Direct Debit,Pending,Economy,171.16,georgeweber@morgan.com,079.032.0204x1792,89941,1969-01-10
+CUST100190,2021-02-27,Rolling,Direct Debit,Inactive,Green,504.81,frykelli@curtis-wang.biz,001-111-799-3136,61201,1990-05-12
+CUST100191,2020-11-07,Fixed,Direct Debit,Active,Standard,433.97,ismall@may-turner.com,651-982-5309x25114,10823,1974-07-12
+CUST100192,2023-05-25,Rolling,Credit Card,Active,Standard,582.07,shawn02@yahoo.com,(625)827-3902,82545,2006-10-15
+CUST100193,2021-03-10,Variable,Credit Card,Inactive,Green,846.47,vmarshall@hotmail.com,962-071-0021,12728,1982-07-12
+CUST100194,2024-12-16,Variable,Direct Debit,Active,Peak/Off-Peak,146.38,michelle55@anderson-wood.net,001-946-723-2487x632,94671,1988-10-17
+CUST100195,2022-08-11,Fixed,Credit Card,Pending,Peak/Off-Peak,439.45,john14@wright-davis.com,+1-092-791-4560x833,30853,1938-08-30
+CUST100196,2022-12-15,Fixed,Credit Card,Inactive,Standard,644.47,kwright@yahoo.com,819-588-3734,28766,1950-03-11
+CUST100197,2024-09-18,Variable,Credit Card,Pending,Economy,135.59,kathrynjimenez@hotmail.com,3127722005,89821,1959-01-27
+CUST100198,2022-05-29,Variable,PayPal,Active,Economy,165.51,fkoch@gmail.com,364-597-0108x2207,86250,1978-07-03
+CUST100199,2025-03-04,Fixed,Direct Debit,Inactive,Peak/Off-Peak,824.19,pwagner@aguilar.com,113.799.5635x31531,18964,1993-01-09
+CUST100200,2021-09-17,Fixed,Credit Card,Pending,Green,628.83,pharper@hotmail.com,636.317.9706,94683,1959-11-21
+CUST100201,2025-06-11,Fixed,PayPal,Active,Economy,704.31,amanda16@gmail.com,(397)265-2735,21609,1983-04-11
+CUST100202,2025-06-27,Rolling,Bank Transfer,Inactive,Peak/Off-Peak,295.31,kathryn50@yahoo.com,352-090-4217x762,66249,1967-12-22
+CUST100203,2024-08-09,Fixed,Bank Transfer,Cancelled,Green,288.0,michaelroberts@gordon-duran.com,001-534-929-2983x16873,68173,1944-06-21
+CUST100204,2022-08-26,Fixed,Credit Card,Active,Standard,916.33,theresalong@grant-diaz.com,001-774-063-3569,96015,1963-11-15
+CUST100205,2024-08-10,Rolling,Direct Debit,Active,Green,372.87,cporter@taylor.info,929.060.0780,80289,1985-03-03
+CUST100206,2024-01-18,Variable,Credit Card,Cancelled,Standard,918.09,catherinerobertson@yahoo.com,(867)177-3180x63254,85880,1985-03-18
+CUST100207,2022-03-16,Fixed,Bank Transfer,Cancelled,Peak/Off-Peak,290.63,phillipjensen@yahoo.com,107.427.9907,69089,1954-04-29
+CUST100208,2021-05-22,Rolling,Direct Debit,Pending,Green,271.02,terickson@yahoo.com,262.570.1658x046,45250,1977-05-20
+CUST100209,2021-05-30,Fixed,Direct Debit,Active,Peak/Off-Peak,767.33,mark16@parker.com,001-498-931-9508x50165,59153,1951-03-26
+CUST100210,2024-04-02,Fixed,Bank Transfer,Cancelled,Standard,772.19,tammy99@gmail.com,905.528.1832x538,17697,1935-11-24
+CUST100211,2023-08-07,Rolling,PayPal,Inactive,Economy,778.9,ojackson@harvey.com,793-355-4864,44937,1977-12-12
+CUST100212,2024-03-10,Variable,PayPal,Active,Economy,923.0,leescott@hernandez-vaughn.biz,1557788178,38622,1936-01-26
+CUST100213,2024-01-31,Rolling,Credit Card,Pending,Standard,726.06,thorntonapril@hotmail.com,+1-847-951-3711x62411,47728,1979-05-07
+CUST100214,2024-07-22,Fixed,Direct Debit,Cancelled,Economy,733.39,ufox@gmail.com,(412)723-8046,82220,1963-09-06
+CUST100215,2021-01-17,Variable,Credit Card,Active,Economy,456.97,amy49@yahoo.com,+1-827-567-0431x03856,56980,1997-12-03
+CUST100216,2021-06-03,Rolling,Direct Debit,Active,Green,315.4,joshuaevans@wise-bush.info,001-557-988-7749,05745,1978-05-08
+CUST100217,2021-02-06,Rolling,Bank Transfer,Cancelled,Green,389.45,ybailey@hotmail.com,(424)375-4025,93924,1966-04-02
+CUST100218,2024-01-04,Variable,Direct Debit,Cancelled,Economy,354.75,david86@yahoo.com,729-284-2222x3105,90006,1943-08-08
+CUST100219,2023-06-22,Fixed,Direct Debit,Cancelled,Green,519.63,kellyroberts@hotmail.com,001-274-523-8055,51308,1987-01-24
+CUST100220,2021-07-07,Rolling,Bank Transfer,Active,Standard,683.85,sandra47@harris.com,(578)284-1067,31841,1973-03-09
+CUST100221,2022-09-13,Rolling,PayPal,Cancelled,Green,377.58,danielyang@gmail.com,001-275-208-8547x49297,27871,1963-06-19
+CUST100222,2022-03-20,Rolling,Bank Transfer,Cancelled,Green,423.68,santiagoamanda@hall.info,170-281-4069x37515,80505,2006-05-07
+CUST100223,2022-03-15,Fixed,Direct Debit,Active,Green,894.53,adampierce@russell.info,9398343018,80045,1964-03-08
+CUST100224,2025-02-23,Rolling,Bank Transfer,Active,Peak/Off-Peak,519.4,manuel01@andrews.com,186.375.9980x562,10331,1948-08-05
+CUST100225,2024-05-26,Variable,Direct Debit,Pending,Standard,822.53,lkhan@osborn.info,001-656-504-5547x813,20476,1972-06-05
+CUST100226,2021-10-11,Variable,PayPal,Inactive,Economy,750.17,nancy04@morrison.info,001-767-426-6299x1234,74805,1944-10-08
+CUST100227,2024-03-04,Rolling,PayPal,Active,Economy,785.47,melissamcdonald@gmail.com,851.961.0646x2879,82786,1991-12-27
+CUST100228,2022-02-23,Rolling,Direct Debit,Inactive,Peak/Off-Peak,388.21,francisco74@lopez.org,001-232-648-7049x47873,65712,1993-10-26
+CUST100229,2022-12-15,Variable,PayPal,Pending,Green,282.81,cherylfowler@wilcox-robertson.com,0244714627,13268,1977-11-02
+CUST100230,2024-07-09,Variable,Bank Transfer,Pending,Standard,381.63,lopezdonald@yahoo.com,001-301-471-9597x964,02459,1978-02-26
+CUST100231,2022-09-17,Rolling,PayPal,Cancelled,Standard,141.14,greenjoe@finley-turner.org,+1-715-890-4290x2572,19194,1961-07-22
+CUST100232,2021-03-24,Variable,Credit Card,Pending,Economy,877.68,desiree30@wilson.net,(204)565-0448x183,41073,1961-06-01
+CUST100233,2024-05-09,Fixed,PayPal,Cancelled,Peak/Off-Peak,767.13,fowlershelia@yahoo.com,001-219-285-5445x18952,72215,1941-05-06
+CUST100234,2025-04-07,Fixed,Credit Card,Cancelled,Peak/Off-Peak,114.6,susanmendoza@adkins-obrien.biz,2845765213,11926,2001-10-23
+CUST100235,2021-06-02,Fixed,Bank Transfer,Active,Peak/Off-Peak,597.98,kathleenbecker@hotmail.com,(833)898-8816,65894,2002-06-15
+CUST100236,2021-01-06,Fixed,PayPal,Active,Peak/Off-Peak,625.63,xrice@stark.com,112.075.4527x985,12836,1940-12-15
+CUST100237,2025-03-08,Variable,PayPal,Inactive,Standard,748.01,franklinbond@wilson-harris.org,(401)322-3423,60113,1971-12-08
+CUST100238,2020-09-16,Fixed,PayPal,Cancelled,Green,365.67,nolansean@gmail.com,(161)107-6031,41620,1991-12-01
+CUST100239,2021-05-18,Rolling,Bank Transfer,Cancelled,Economy,276.57,williambryant@gmail.com,8907140140,22746,1950-10-26
+CUST100240,2022-08-06,Rolling,Bank Transfer,Inactive,Standard,307.02,jennifer64@gmail.com,001-119-393-2501x24955,39246,1951-06-23
+CUST100241,2021-12-31,Fixed,Credit Card,Cancelled,Peak/Off-Peak,612.81,williamsmelvin@weaver.com,(893)891-1908,21665,1996-03-18
+CUST100242,2024-01-16,Rolling,Direct Debit,Pending,Peak/Off-Peak,321.16,mitchellhector@gmail.com,342.801.3875,09435,1957-11-17
+CUST100243,2024-09-18,Fixed,Bank Transfer,Cancelled,Economy,595.58,victoria67@yahoo.com,001-927-125-6638x361,37216,1979-01-28
+CUST100244,2024-09-05,Fixed,PayPal,Cancelled,Green,949.12,vegadorothy@hotmail.com,001-517-182-7548x01571,76065,1986-09-10
+CUST100245,2022-05-28,Fixed,Credit Card,Cancelled,Green,403.81,david86@anderson.com,(479)473-8646x3175,48123,1966-10-06
+CUST100246,2023-12-30,Rolling,PayPal,Active,Green,787.02,inunez@yahoo.com,(071)678-1126,46817,1937-06-25
+CUST100247,2021-01-31,Rolling,PayPal,Pending,Peak/Off-Peak,539.76,johnreed@yahoo.com,(912)153-5396x1367,12196,1973-05-19
+CUST100248,2021-12-26,Fixed,Bank Transfer,Cancelled,Standard,751.2,johnsondonna@miranda.com,994-657-9678x427,09824,1937-01-05
+CUST100249,2023-10-23,Fixed,Direct Debit,Pending,Standard,765.63,wheelersean@warner.biz,147-732-0101,23987,1935-03-22
+CUST100250,2020-08-08,Fixed,PayPal,Pending,Green,514.75,amberwebster@gmail.com,026.952.4991x1877,93647,1997-06-07
+CUST100251,2023-11-27,Fixed,Bank Transfer,Pending,Economy,759.5,jim95@harper.com,477.848.5880,60891,1973-04-15
+CUST100252,2022-11-03,Variable,Credit Card,Inactive,Green,416.96,roberthill@fry.biz,001-061-675-6770x02842,34310,1952-06-03
+CUST100253,2024-06-15,Fixed,PayPal,Cancelled,Green,225.96,comptonshelly@hotmail.com,624.671.9788x9778,62532,1989-05-29
+CUST100254,2023-01-05,Rolling,Credit Card,Active,Economy,591.89,heather62@yahoo.com,(806)479-6954,34058,1939-08-16
+CUST100255,2024-03-08,Fixed,Bank Transfer,Active,Green,265.64,karenwells@gmail.com,009-025-5905x61655,58440,2007-03-11
+CUST100256,2025-04-24,Variable,Bank Transfer,Active,Economy,900.43,lindamelendez@hotmail.com,(503)334-9114x15208,85736,2006-05-19
+CUST100257,2024-09-22,Rolling,Bank Transfer,Active,Economy,991.29,igrant@yahoo.com,076-986-4079x05696,18909,1939-11-29
+CUST100258,2021-11-25,Variable,Bank Transfer,Cancelled,Standard,961.51,james17@davis-hardy.com,917-135-7852x94563,16749,1980-07-03
+CUST100259,2022-03-14,Fixed,Bank Transfer,Active,Economy,571.55,nicholas99@russo.org,183.440.4963x9191,75046,1936-10-19
+CUST100260,2023-02-09,Rolling,Direct Debit,Pending,Green,855.16,vclark@krueger-smith.com,001-541-987-6351,64498,1944-01-15
+CUST100261,2022-06-09,Fixed,Credit Card,Inactive,Economy,166.9,srocha@padilla.com,+1-484-685-3664x9878,05690,1998-07-16
+CUST100262,2021-01-30,Rolling,Direct Debit,Active,Green,836.2,powens@yahoo.com,(082)973-7489,48142,1947-07-14
+CUST100263,2025-07-06,Rolling,Credit Card,Pending,Economy,143.66,michael77@gmail.com,001-690-835-7232x46651,38069,1991-01-29
+CUST100264,2025-03-13,Rolling,PayPal,Active,Standard,105.75,robin55@yahoo.com,+1-364-424-9363x1230,53052,1975-07-21
+CUST100265,2021-02-07,Variable,PayPal,Cancelled,Green,223.74,joycesmith@donovan.com,477.866.0324,54113,1971-12-21
+CUST100266,2023-04-03,Fixed,Credit Card,Pending,Green,667.63,jerry93@pierce-harding.com,(044)820-7001,81724,1977-10-03
+CUST100267,2021-01-26,Variable,PayPal,Cancelled,Green,161.17,plevy@hotmail.com,941-651-6231x98189,89706,1981-08-27
+CUST100268,2021-01-04,Variable,PayPal,Active,Economy,235.93,yjackson@yahoo.com,001-847-139-1559x63632,17407,1989-01-27
+CUST100269,2025-07-21,Fixed,PayPal,Pending,Standard,296.85,jenniferfreeman@mooney.com,234-764-9078,58281,1945-06-11
+CUST100270,2024-08-22,Fixed,Direct Debit,Pending,Standard,510.41,gutierrezmegan@jones.com,(158)673-4257x540,48569,1977-03-17
+CUST100271,2024-11-11,Fixed,Direct Debit,Pending,Standard,154.41,nbrooks@estrada.info,+1-900-348-6451x8376,67672,2001-10-17
+CUST100272,2025-02-07,Rolling,Bank Transfer,Active,Standard,673.96,patelrobert@moreno.net,6441343275,82372,1940-12-29
+CUST100273,2021-12-04,Variable,Credit Card,Inactive,Economy,940.51,shawheidi@yahoo.com,001-604-177-6561x24815,41611,1988-02-13
+CUST100274,2021-01-25,Variable,PayPal,Inactive,Green,921.48,hullalice@lee.com,(985)700-2720x63459,49480,1975-03-16
+CUST100275,2024-11-26,Variable,Credit Card,Cancelled,Peak/Off-Peak,693.36,laura15@yahoo.com,123-829-6577,11444,1996-06-15
+CUST100276,2021-04-07,Variable,Bank Transfer,Inactive,Standard,114.16,veronicaperez@hotmail.com,001-242-954-3165x2669,89918,2001-09-23
+CUST100277,2022-03-02,Variable,Bank Transfer,Active,Peak/Off-Peak,578.99,davisnicholas@alvarez.com,008.931.7342,54659,1951-02-10
+CUST100278,2021-03-02,Rolling,PayPal,Pending,Economy,470.2,vnewman@hotmail.com,6969421529,66815,1985-06-22
+CUST100279,2021-03-01,Fixed,Bank Transfer,Pending,Economy,115.05,hallrachel@clay.com,086-771-3334,59495,1948-07-27
+CUST100280,2022-08-02,Rolling,PayPal,Active,Peak/Off-Peak,749.97,whitemelissa@gmail.com,762-639-3436x2620,34950,1938-07-28
+CUST100281,2024-01-08,Rolling,Bank Transfer,Pending,Green,582.16,karenmarquez@hickman-evans.org,439-735-9710x7256,89964,1965-01-27
+CUST100282,2021-08-09,Rolling,Bank Transfer,Inactive,Peak/Off-Peak,358.02,irhodes@reyes-singh.com,+1-366-941-1800x53759,06094,1941-02-04
+CUST100283,2025-06-06,Fixed,PayPal,Cancelled,Economy,551.99,davisjesse@gmail.com,+1-900-489-6465x28092,81846,1936-01-01
+CUST100284,2022-09-05,Fixed,Bank Transfer,Active,Peak/Off-Peak,728.07,unovak@gmail.com,287-572-1586x241,84893,1953-06-20
+CUST100285,2025-07-05,Variable,Bank Transfer,Pending,Standard,487.52,whenry@hotmail.com,027-456-4494x85625,07979,1948-11-23
+CUST100286,2020-12-03,Rolling,Bank Transfer,Active,Standard,945.74,llopez@hotmail.com,001-728-703-2032x0742,97630,1978-07-12
+CUST100287,2021-04-13,Variable,Credit Card,Inactive,Green,261.34,bartonkenneth@gmail.com,001-761-707-5877x712,32589,1993-11-18
+CUST100288,2024-02-25,Fixed,Direct Debit,Pending,Peak/Off-Peak,926.24,adamsnorman@moore.com,513-422-8499,92218,1965-05-23
+CUST100289,2025-07-20,Fixed,Credit Card,Pending,Peak/Off-Peak,571.95,sean41@miller.info,908.926.1371,74006,1957-10-01
+CUST100290,2025-05-24,Fixed,Bank Transfer,Pending,Peak/Off-Peak,316.87,johnsonmichael@gmail.com,041-659-1520x17774,01542,1946-07-26
+CUST100291,2025-01-12,Fixed,Direct Debit,Pending,Peak/Off-Peak,657.8,asmith@yahoo.com,+1-050-975-9230x450,20759,1960-08-08
+CUST100292,2023-04-11,Rolling,Credit Card,Active,Green,327.18,ashleyjackson@jackson-adams.com,001-189-616-4236x1032,14302,1984-10-16
+CUST100293,2022-10-21,Variable,Credit Card,Inactive,Economy,419.0,bryanhamilton@yahoo.com,(642)147-6492x5158,38598,1935-04-05
+CUST100294,2022-04-28,Fixed,Credit Card,Inactive,Green,815.44,xpatton@yahoo.com,776.749.9616,49760,1941-09-24
+CUST100295,2023-04-05,Variable,PayPal,Cancelled,Economy,171.12,mwheeler@rodriguez-torres.biz,(926)610-8573x278,21237,1969-12-06
+CUST100296,2022-08-13,Fixed,Bank Transfer,Active,Economy,963.37,vbrock@yahoo.com,+1-814-761-7422x4386,75229,1940-06-13
+CUST100297,2022-11-05,Variable,Bank Transfer,Inactive,Economy,513.1,pochoa@hotmail.com,908-108-1866x1794,52835,1949-09-01
+CUST100298,2023-12-14,Variable,Direct Debit,Active,Peak/Off-Peak,318.89,malik37@thompson-sanders.com,(491)801-7226x016,10066,1941-02-13
+CUST100299,2021-09-12,Fixed,Credit Card,Active,Green,727.51,yfaulkner@gmail.com,001-459-779-4523x219,29736,1976-01-01
+CUST100300,2023-02-20,Fixed,Bank Transfer,Inactive,Economy,369.98,yramirez@yahoo.com,168-006-1027x769,51386,1944-10-19
+CUST100301,2024-06-22,Variable,Credit Card,Cancelled,Standard,845.26,frederickjames@hotmail.com,001-749-956-4122x0310,61092,1970-06-24
+CUST100302,2023-04-11,Rolling,Bank Transfer,Cancelled,Economy,172.56,bentonsteven@clark.com,001-303-723-6831x472,88207,1979-05-30
+CUST100303,2021-03-15,Fixed,Credit Card,Cancelled,Green,992.51,ttaylor@gmail.com,601.227.7707x9334,12756,1986-03-30
+CUST100304,2020-08-30,Fixed,Bank Transfer,Pending,Peak/Off-Peak,684.91,jennifermccormick@gmail.com,001-605-016-6799,46236,1971-04-28
+CUST100305,2024-06-25,Rolling,Direct Debit,Inactive,Standard,128.52,iaguilar@hotmail.com,001-840-767-8997x3080,61564,1957-10-08
+CUST100306,2025-05-17,Rolling,Credit Card,Pending,Economy,464.75,gibbsmichael@hotmail.com,(958)146-7179x57602,61906,1953-05-03
+CUST100307,2021-06-08,Fixed,Bank Transfer,Pending,Peak/Off-Peak,439.45,mackdiane@jackson-salazar.org,375-738-3959x7246,84712,1997-04-15
+CUST100308,2021-03-17,Fixed,Direct Debit,Pending,Green,528.4,tammy61@gmail.com,(572)934-1722x32971,70639,1950-11-27
+CUST100309,2025-02-27,Fixed,Direct Debit,Active,Green,673.07,jeffrey88@watts.info,(743)380-0545x22801,61430,1951-10-10
+CUST100310,2022-05-26,Fixed,Bank Transfer,Active,Standard,732.56,whitney71@perry-nixon.com,619-318-3745x50842,14803,1978-01-18
+CUST100311,2024-11-20,Variable,Credit Card,Inactive,Standard,174.42,larry73@webb.info,001-891-077-1199x180,11749,1954-09-24
+CUST100312,2022-11-03,Variable,PayPal,Inactive,Economy,860.8,evanslisa@gmail.com,121.352.4787x12552,24129,1990-11-01
+CUST100313,2021-09-17,Variable,Direct Debit,Active,Peak/Off-Peak,680.42,deborah23@thompson.info,376-037-5482,96416,1995-05-24
+CUST100314,2023-07-22,Fixed,Direct Debit,Active,Peak/Off-Peak,398.14,lsoto@sandoval.com,456-532-8632,14702,1951-03-30
+CUST100315,2021-03-03,Variable,Bank Transfer,Pending,Green,979.6,tprice@gmail.com,(667)850-7208x11556,52529,2005-08-07
+CUST100316,2022-08-30,Fixed,PayPal,Cancelled,Green,976.46,karen19@lloyd.com,001-260-602-9084x66845,57270,2006-05-23
+CUST100317,2023-09-24,Fixed,PayPal,Cancelled,Economy,905.31,james14@hotmail.com,(048)926-7389x975,26646,1967-04-28
+CUST100318,2023-01-04,Variable,PayPal,Cancelled,Economy,927.24,candice96@hotmail.com,+1-634-108-5628x8431,53129,1999-08-19
+CUST100319,2021-12-05,Fixed,Bank Transfer,Cancelled,Green,306.79,michael79@cervantes.com,848.520.0894x34681,43587,2001-04-16
+CUST100320,2024-04-24,Variable,Credit Card,Cancelled,Green,911.15,lawrenceallen@white.com,001-054-851-0174x9075,08951,1972-10-07
+CUST100321,2025-03-16,Variable,Direct Debit,Pending,Peak/Off-Peak,723.06,kcarlson@yahoo.com,998.935.4492,42088,1978-05-26
+CUST100322,2023-02-27,Variable,Bank Transfer,Inactive,Peak/Off-Peak,610.11,tommymedina@hotmail.com,001-683-158-9357x126,45383,2000-04-13
+CUST100323,2025-01-31,Variable,PayPal,Active,Peak/Off-Peak,343.99,tracytaylor@wilkinson-harvey.com,(110)627-3715x86988,79716,1965-04-28
+CUST100324,2020-08-26,Variable,Direct Debit,Pending,Economy,931.74,ytaylor@wagner.biz,001-649-767-7622x82772,64240,1947-01-30
+CUST100325,2025-04-21,Rolling,Direct Debit,Cancelled,Peak/Off-Peak,715.99,kjackson@gmail.com,001-881-377-0285x196,28371,1970-06-29
+CUST100326,2023-02-18,Rolling,PayPal,Active,Standard,352.34,antonio38@jackson-ellis.info,159-408-2154,92551,1974-11-26
+CUST100327,2021-06-19,Rolling,PayPal,Pending,Standard,588.73,adamsamy@weaver-sherman.info,(447)022-9604x432,97662,1945-11-08
+CUST100328,2021-09-23,Rolling,Direct Debit,Cancelled,Peak/Off-Peak,692.3,pgarcia@evans.info,001-701-851-0679x4975,62920,1982-08-19
+CUST100329,2022-11-01,Rolling,Direct Debit,Pending,Peak/Off-Peak,261.42,michelle17@gmail.com,(792)287-7725x1996,15485,1967-07-29
+CUST100330,2021-07-26,Variable,Credit Card,Active,Green,865.38,lisamatthews@callahan-bishop.biz,(365)807-4120x9481,36988,1962-08-10
+CUST100331,2021-06-30,Fixed,Credit Card,Inactive,Green,114.09,kristenli@hudson.com,+1-813-989-0983x7801,60083,1945-03-16
+CUST100332,2025-04-16,Fixed,Bank Transfer,Cancelled,Economy,286.44,tiffany44@adams.com,+1-820-433-9718x95690,05518,1944-10-24
+CUST100333,2021-11-27,Variable,Direct Debit,Active,Standard,229.77,rsellers@martinez.com,056.260.8564x1118,71945,2001-11-25
+CUST100334,2022-11-26,Fixed,Credit Card,Active,Standard,838.62,kburns@adams.com,(422)412-4620,20914,1942-10-15
+CUST100335,2022-12-25,Fixed,Direct Debit,Inactive,Economy,838.81,heather57@yahoo.com,+1-520-046-1526x546,62100,1963-07-04
+CUST100336,2022-05-18,Rolling,PayPal,Pending,Peak/Off-Peak,935.99,meltonmelanie@gmail.com,033-993-7886,19573,1936-05-16
+CUST100337,2023-07-03,Rolling,Credit Card,Inactive,Peak/Off-Peak,369.35,melissa86@gmail.com,405-786-1706,84415,1964-01-02
+CUST100338,2022-04-26,Rolling,PayPal,Inactive,Economy,607.56,troymorris@yahoo.com,+1-304-891-3824x9671,28480,1998-04-20
+CUST100339,2022-10-31,Fixed,PayPal,Pending,Standard,610.03,ashleewashington@yahoo.com,+1-832-582-3868x7007,42468,1986-12-29
+CUST100340,2024-11-19,Rolling,PayPal,Pending,Standard,864.5,garciakristen@smith-noble.com,+1-420-074-9465x398,74976,1960-02-29
+CUST100341,2024-09-27,Variable,Bank Transfer,Pending,Peak/Off-Peak,709.33,bsmith@gmail.com,028-914-1612x8463,04606,2000-12-14
+CUST100342,2022-09-21,Fixed,PayPal,Active,Green,586.51,erik41@ward.com,+1-855-474-3553x795,79285,1948-10-24
+CUST100343,2021-01-06,Fixed,Bank Transfer,Active,Economy,445.46,ugarrett@fischer.com,2097002687,50345,1980-12-02
+CUST100344,2021-05-15,Rolling,Direct Debit,Cancelled,Economy,765.77,thomasanderson@stone.com,001-681-180-7156x95620,08679,1962-12-26
+CUST100345,2024-03-10,Variable,Direct Debit,Cancelled,Peak/Off-Peak,811.45,lisa62@jones-reyes.com,753-703-0453,47882,2006-05-26
+CUST100346,2022-12-09,Rolling,Credit Card,Inactive,Economy,720.38,michael42@ayala-mullins.com,943-375-0479,56876,2004-07-13
+CUST100347,2020-12-16,Rolling,Credit Card,Inactive,Standard,170.58,morenoalan@martin.com,036.149.8728,62551,1977-03-27
+CUST100348,2020-08-13,Fixed,Bank Transfer,Cancelled,Peak/Off-Peak,770.91,fheath@gmail.com,999.219.2124,28474,1977-01-09
+CUST100349,2023-06-04,Fixed,Direct Debit,Inactive,Standard,411.27,lawrencepatrick@edwards-taylor.com,001-384-308-9487,07589,1996-05-18
+CUST100350,2021-09-12,Rolling,Credit Card,Pending,Green,187.92,angelagreene@mitchell.com,6056641877,28221,1955-07-19
+CUST100351,2022-10-24,Fixed,Credit Card,Active,Economy,308.93,juliephillips@bowers.info,(803)046-8750x635,03508,2003-04-02
+CUST100352,2021-12-17,Fixed,Credit Card,Cancelled,Economy,168.42,allendanielle@gmail.com,903-613-3254,99934,1948-12-19
+CUST100353,2024-05-05,Fixed,Direct Debit,Active,Standard,644.65,sarah26@fisher.info,107-609-5431,90111,1952-04-15
+CUST100354,2025-04-12,Rolling,Credit Card,Cancelled,Peak/Off-Peak,652.48,matthewsalexander@williams.biz,350.583.1997x1791,55934,1964-05-12
+CUST100355,2024-03-22,Fixed,Direct Debit,Active,Peak/Off-Peak,636.05,zhenderson@gmail.com,006-512-0704,35870,1984-01-29
+CUST100356,2025-05-10,Rolling,PayPal,Cancelled,Economy,972.03,christopher18@mccann.net,+1-611-080-4661x963,33540,1987-01-24
+CUST100357,2020-09-01,Fixed,PayPal,Active,Standard,393.74,wwillis@hotmail.com,+1-907-676-9915x078,83821,1996-02-29
+CUST100358,2021-07-15,Variable,PayPal,Pending,Green,670.71,holly30@miller.com,931-109-1939x28456,23583,2004-06-20
+CUST100359,2021-03-23,Fixed,Bank Transfer,Cancelled,Standard,805.19,parkerjudith@hotmail.com,972.320.0249x6854,11457,1962-03-21
+CUST100360,2021-11-08,Rolling,Direct Debit,Cancelled,Peak/Off-Peak,505.5,smithderrick@martin.net,001-822-749-5450,19078,1989-01-20
+CUST100361,2025-03-24,Fixed,Credit Card,Cancelled,Economy,305.32,nathanbrady@yahoo.com,920.388.0653x33153,09578,1960-03-02
+CUST100362,2020-11-21,Rolling,Bank Transfer,Pending,Economy,597.73,rogersruben@brown.com,+1-779-599-5946x52170,36402,1943-12-06
+CUST100363,2023-09-23,Rolling,Bank Transfer,Active,Economy,437.88,ddixon@yahoo.com,303.379.3375x6362,53594,1972-05-26
+CUST100364,2025-07-16,Fixed,PayPal,Cancelled,Green,267.16,eric19@sharp.com,5015081247,11210,1992-03-03
+CUST100365,2025-04-14,Rolling,Direct Debit,Active,Green,627.29,brandoncox@white.net,950.033.4234,39604,1956-12-07
+CUST100366,2021-11-05,Fixed,Credit Card,Pending,Peak/Off-Peak,442.07,marcbutler@hotmail.com,001-258-323-0241x0261,93851,1976-05-22
+CUST100367,2024-03-29,Variable,Bank Transfer,Inactive,Standard,794.95,margaret95@gmail.com,347-355-2896x11223,59669,1948-06-23
+CUST100368,2021-09-01,Rolling,Credit Card,Cancelled,Standard,365.84,jeffreyblack@finley.info,865.596.3099,55514,1954-08-19
+CUST100369,2020-12-09,Rolling,PayPal,Pending,Standard,321.8,mark87@gmail.com,842.530.4289,69284,1997-04-28
+CUST100370,2023-03-17,Rolling,Direct Debit,Active,Green,166.16,kellymueller@hotmail.com,317.912.8685x7872,28564,1949-03-04
+CUST100371,2023-09-08,Rolling,Credit Card,Cancelled,Economy,341.17,frichardson@oconnor.com,587-774-9690x33373,88272,1949-08-02
+CUST100372,2020-12-03,Variable,Credit Card,Active,Peak/Off-Peak,442.0,randolphandrew@reed.com,(346)692-5481x2147,34507,1967-04-30
+CUST100373,2023-08-18,Variable,Bank Transfer,Inactive,Peak/Off-Peak,805.5,usweeney@garcia-moreno.com,539.078.9567x76657,24628,1936-11-04
+CUST100374,2022-05-16,Fixed,Credit Card,Cancelled,Green,238.85,jwoodward@hotmail.com,460-273-4151x48881,07545,1997-04-22
+CUST100375,2022-09-16,Rolling,Direct Debit,Cancelled,Green,450.66,williamsjesse@hotmail.com,311-150-8353x544,12617,1960-01-16
+CUST100376,2021-06-17,Rolling,Direct Debit,Active,Economy,424.63,stephen19@gmail.com,001-439-284-0445x6690,56669,1970-11-22
+CUST100377,2023-08-05,Variable,Credit Card,Cancelled,Economy,182.37,kjones@graham.com,826.333.7389x8775,45330,1938-06-24
+CUST100378,2025-05-07,Fixed,Bank Transfer,Pending,Green,948.66,melissa65@yahoo.com,536-637-7805,99221,1999-05-28
+CUST100379,2024-01-16,Variable,Bank Transfer,Pending,Peak/Off-Peak,500.26,jesus32@hotmail.com,(924)075-5366,39416,2006-11-03
+CUST100380,2021-11-25,Variable,PayPal,Inactive,Economy,785.21,danielcole@russell-herrera.com,+1-684-590-9022x59999,22066,1996-03-10
+CUST100381,2022-08-07,Fixed,Direct Debit,Pending,Economy,192.01,steven11@gmail.com,(636)186-3715x9741,26532,1982-06-27
+CUST100382,2021-12-19,Rolling,PayPal,Inactive,Peak/Off-Peak,178.57,lewismelissa@gmail.com,(182)097-0231,46281,1970-09-24
+CUST100383,2022-02-03,Rolling,Bank Transfer,Active,Economy,487.88,tanyafoster@byrd.com,(433)481-7058x0256,55433,1950-09-10
+CUST100384,2024-02-03,Variable,PayPal,Active,Peak/Off-Peak,601.29,jbond@pierce.com,(212)867-1632x3467,63628,1946-01-10
+CUST100385,2020-10-18,Variable,Bank Transfer,Inactive,Standard,561.2,brownkimberly@anderson.com,(994)938-7430,62825,1982-10-28
+CUST100386,2022-02-10,Variable,PayPal,Pending,Economy,192.96,samantha10@gonzalez.info,(716)938-5977,70690,1993-04-23
+CUST100387,2023-05-31,Fixed,PayPal,Pending,Economy,180.66,steinmaria@martinez-dunlap.com,901.475.4692x632,90787,1963-06-13
+CUST100388,2024-02-02,Fixed,Direct Debit,Inactive,Standard,598.8,zunderwood@johnson-vega.com,+1-676-291-6032x484,21562,1955-02-01
+CUST100389,2022-09-12,Variable,Direct Debit,Inactive,Peak/Off-Peak,637.23,rebekahhill@yahoo.com,+1-137-681-5118x56724,91817,1988-08-10
+CUST100390,2022-11-08,Rolling,PayPal,Active,Economy,805.99,mendezchristina@phillips.com,807.017.6563,57751,2002-12-08
+CUST100391,2021-12-09,Rolling,Bank Transfer,Inactive,Standard,877.35,patrick63@wilkerson.net,(004)125-7771x1837,46991,1993-03-23
+CUST100392,2021-07-03,Fixed,Bank Transfer,Pending,Peak/Off-Peak,111.11,wcasey@stephens-washington.org,(742)209-1241,91320,2003-09-19
+CUST100393,2023-11-03,Fixed,Direct Debit,Inactive,Economy,472.43,bnelson@yahoo.com,+1-621-042-7523,75253,1980-01-04
+CUST100394,2020-11-30,Rolling,Direct Debit,Inactive,Green,801.25,huangkimberly@stokes.net,001-083-708-1647x090,51506,1941-10-27
+CUST100395,2024-08-03,Fixed,Credit Card,Inactive,Standard,752.36,terrigarcia@hotmail.com,6335331060,01802,1994-08-27
+CUST100396,2022-06-24,Rolling,Direct Debit,Active,Peak/Off-Peak,603.58,amanda03@bradford.com,5313122068,74020,1971-09-08
+CUST100397,2022-04-14,Variable,Bank Transfer,Inactive,Green,993.46,brittanydrake@howard.com,558-393-8661,78767,1984-11-29
+CUST100398,2024-07-02,Fixed,Direct Debit,Cancelled,Peak/Off-Peak,318.47,marycochran@weaver-thompson.com,315.520.6506,26526,1947-11-25
+CUST100399,2023-07-24,Variable,Credit Card,Cancelled,Green,568.99,halljeffery@woods.com,731.495.0136,10699,1941-04-10
+CUST100400,2023-03-08,Fixed,PayPal,Cancelled,Green,716.78,samantharichard@yahoo.com,971-892-4195x6252,95229,1986-08-25
+CUST100401,2022-07-10,Fixed,PayPal,Pending,Standard,252.55,hernandezjanet@schroeder.com,+1-571-509-9768x3890,88052,1992-02-06
+CUST100402,2022-06-25,Variable,Bank Transfer,Pending,Standard,342.03,janet69@rogers.com,091.436.3910,76324,1960-12-24
+CUST100403,2020-10-14,Variable,Credit Card,Inactive,Green,341.57,fconner@stewart.org,(574)326-3039,81308,1974-08-08
+CUST100404,2022-03-25,Fixed,PayPal,Cancelled,Standard,231.34,elizabetholsen@yahoo.com,524.508.6403x553,19456,1960-05-15
+CUST100405,2023-12-22,Variable,PayPal,Active,Peak/Off-Peak,250.49,david09@yahoo.com,803.396.8527,42933,1989-05-23
+CUST100406,2023-05-18,Rolling,Direct Debit,Cancelled,Economy,348.37,carriemccall@walker.com,+1-017-130-2321x2983,87541,1958-08-18
+CUST100407,2022-12-15,Rolling,PayPal,Cancelled,Peak/Off-Peak,369.78,youngtoni@gmail.com,816.742.3362,96754,1972-02-21
+CUST100408,2021-03-05,Variable,Bank Transfer,Pending,Green,804.4,sean43@steele.com,+1-344-973-4715x662,97866,2006-08-29
+CUST100409,2022-12-17,Rolling,PayPal,Pending,Peak/Off-Peak,425.01,williamssamuel@costa-wilkerson.info,768.962.7066x1498,97064,2001-10-07
+CUST100410,2023-07-28,Rolling,Bank Transfer,Active,Green,949.8,amy17@hotmail.com,(824)674-7468,96593,2005-03-03
+CUST100411,2024-12-01,Rolling,Bank Transfer,Pending,Peak/Off-Peak,748.81,shannonlloyd@phillips.com,+1-715-273-2300x857,41987,1993-08-05
+CUST100412,2023-12-26,Fixed,Direct Debit,Active,Peak/Off-Peak,546.22,petersonpamela@dennis.com,(665)674-9160x1692,02360,1949-06-12
+CUST100413,2025-02-22,Rolling,Credit Card,Pending,Standard,655.0,bbush@hotmail.com,645.875.0663,20228,1941-05-17
+CUST100414,2023-05-27,Rolling,Bank Transfer,Cancelled,Green,512.08,gmoore@harris-lee.net,705.024.9724,60618,1968-06-20
+CUST100415,2020-10-26,Variable,PayPal,Cancelled,Green,221.94,kenneth10@yahoo.com,992.011.6691,19832,1949-09-14
+CUST100416,2021-07-26,Rolling,PayPal,Active,Economy,106.09,briansmith@gmail.com,362.644.8869x46119,65964,1964-06-21
+CUST100417,2022-10-22,Fixed,Bank Transfer,Active,Peak/Off-Peak,456.12,bgonzalez@gmail.com,001-524-364-0270x11686,41973,1950-04-07
+CUST100418,2022-02-07,Fixed,PayPal,Pending,Peak/Off-Peak,857.45,tiffany71@glover-ruiz.com,+1-462-252-2372x8179,15391,1941-10-26
+CUST100419,2025-07-10,Variable,Direct Debit,Pending,Economy,441.9,ylopez@lopez-williams.info,230.234.6791,88836,1939-06-12
+CUST100420,2022-11-04,Fixed,PayPal,Active,Green,875.98,jeremy49@gmail.com,+1-214-161-4150x9377,53766,1970-10-24
+CUST100421,2020-11-28,Fixed,Direct Debit,Active,Peak/Off-Peak,496.2,millermaurice@gutierrez.com,+1-100-409-0138x06984,34947,1967-01-31
+CUST100422,2021-07-04,Rolling,Bank Transfer,Cancelled,Economy,487.55,rsheppard@yahoo.com,759.655.5535x6690,68749,1943-07-20
+CUST100423,2024-04-13,Rolling,Bank Transfer,Cancelled,Economy,841.18,zevans@johnson.org,(510)762-0918x435,95172,2007-01-04
+CUST100424,2023-07-12,Fixed,Bank Transfer,Active,Economy,685.93,averyshane@stanton.com,978.630.5050x573,00982,1948-05-03
+CUST100425,2023-04-03,Variable,Direct Debit,Cancelled,Peak/Off-Peak,634.95,rmiller@harris-carson.com,+1-769-156-7164x932,59556,1972-01-29
+CUST100426,2024-04-18,Variable,PayPal,Inactive,Green,370.39,renee11@yahoo.com,980.271.4872x71783,16979,1965-05-29
+CUST100427,2024-12-07,Rolling,Direct Debit,Pending,Green,642.89,melissa87@gmail.com,321.160.2564,83639,1989-08-24
+CUST100428,2021-07-27,Fixed,PayPal,Cancelled,Economy,725.76,perryeddie@hotmail.com,471.287.1539,59395,1987-12-04
+CUST100429,2023-11-11,Rolling,PayPal,Inactive,Economy,531.11,hartcraig@dillon-beard.biz,001-915-668-6334x14111,84245,1988-01-22
+CUST100430,2025-06-28,Variable,Direct Debit,Active,Green,259.87,kpena@hotmail.com,931-952-5690x40983,76310,1948-05-16
+CUST100431,2022-03-15,Fixed,Credit Card,Cancelled,Economy,458.42,jacksonrichard@hotmail.com,(655)289-9316x0875,13273,1964-07-06
+CUST100432,2022-10-02,Rolling,Bank Transfer,Active,Economy,387.22,fosternatasha@hotmail.com,(437)729-4209,05283,1971-02-05
+CUST100433,2020-12-17,Rolling,PayPal,Pending,Green,761.39,reesesamantha@smith-roth.com,481-497-3746x05233,29156,2001-12-24
+CUST100434,2024-04-17,Variable,PayPal,Active,Peak/Off-Peak,669.61,megan13@gmail.com,001-027-642-0865x675,98242,1962-08-01
+CUST100435,2020-08-07,Rolling,Direct Debit,Inactive,Economy,970.99,uschroeder@yahoo.com,001-661-844-3861x25904,25097,1957-11-11
+CUST100436,2025-01-03,Variable,Credit Card,Active,Peak/Off-Peak,803.78,lopezjason@yahoo.com,292.774.2333x059,55574,1962-04-17
+CUST100437,2025-03-01,Variable,Bank Transfer,Inactive,Economy,393.3,lori82@gmail.com,266-201-5720,91785,1981-11-24
+CUST100438,2022-04-06,Fixed,Credit Card,Cancelled,Economy,352.27,htaylor@hotmail.com,859-626-3013,72077,1973-10-13
+CUST100439,2023-09-07,Fixed,Bank Transfer,Cancelled,Economy,807.28,jameswhitaker@wright.com,(749)261-7647x5011,22272,1973-10-12
+CUST100440,2024-04-02,Rolling,PayPal,Inactive,Standard,428.51,joshuacolon@hotmail.com,178-309-9974,79267,1935-01-04
+CUST100441,2021-03-07,Variable,PayPal,Pending,Peak/Off-Peak,938.86,maldonadojohn@yahoo.com,001-192-676-4921x518,49988,1947-05-31
+CUST100442,2023-05-24,Variable,Direct Debit,Pending,Peak/Off-Peak,279.82,susanwells@hotmail.com,(606)888-7189,28830,1959-10-11
+CUST100443,2023-04-04,Fixed,Direct Debit,Pending,Economy,997.54,frank41@yahoo.com,+1-131-292-0875,46125,2003-01-29
+CUST100444,2021-08-24,Fixed,Credit Card,Cancelled,Green,261.93,kwilliams@vincent.com,029-321-8401,27995,1999-06-22
+CUST100445,2023-02-21,Variable,Credit Card,Cancelled,Economy,790.86,denise80@smith.org,845-826-0340,25556,1976-02-21
+CUST100446,2024-11-24,Fixed,Bank Transfer,Pending,Standard,124.22,johnnytrujillo@marquez-fletcher.com,487.297.5859x88310,89581,1967-01-23
+CUST100447,2023-03-20,Rolling,Direct Debit,Active,Economy,754.49,dyork@yahoo.com,032.432.9839,76108,1957-10-03
+CUST100448,2024-01-22,Variable,PayPal,Pending,Standard,948.68,hturner@sanders.com,(429)618-4462x671,02384,1977-06-22
+CUST100449,2023-05-12,Fixed,Direct Debit,Active,Economy,288.68,gabrielle71@yahoo.com,628-314-3598x926,49031,1944-01-15
+CUST100450,2024-01-04,Rolling,Credit Card,Pending,Peak/Off-Peak,817.92,michelle44@gmail.com,(566)093-1418,48184,1957-04-07
+CUST100451,2023-02-06,Variable,Direct Debit,Active,Economy,848.15,racheltrujillo@powell.com,861-515-5423,02623,1960-01-31
+CUST100452,2025-04-20,Rolling,PayPal,Cancelled,Peak/Off-Peak,162.24,jordan66@yahoo.com,016-361-1284x971,40077,1979-10-17
+CUST100453,2021-09-01,Rolling,Direct Debit,Pending,Green,863.01,matthewreeves@nichols.com,594.849.1025x62588,40735,1996-07-16
+CUST100454,2022-03-21,Variable,Credit Card,Pending,Green,815.54,marywalter@gmail.com,+1-679-240-8222x694,66310,1953-11-21
+CUST100455,2024-02-29,Rolling,PayPal,Inactive,Economy,705.68,ruizjoyce@hotmail.com,5396727578,16851,1936-04-27
+CUST100456,2023-10-23,Fixed,Bank Transfer,Pending,Economy,225.26,destiny35@garner.biz,468-341-4651x1131,92161,1999-03-07
+CUST100457,2022-01-24,Fixed,Bank Transfer,Active,Green,372.55,jorge47@gmail.com,(901)487-0682,65923,1992-10-29
+CUST100458,2025-06-05,Fixed,PayPal,Inactive,Standard,327.41,delacruzbrandy@hotmail.com,788.160.9306x8538,85555,1980-01-19
+CUST100459,2023-02-23,Rolling,PayPal,Pending,Green,238.73,gpreston@dillon.net,+1-909-728-3215x28506,60269,1937-06-03
+CUST100460,2024-01-15,Fixed,PayPal,Pending,Green,480.82,jbrown@gmail.com,625.153.8144x7443,54771,1958-09-30
+CUST100461,2025-03-31,Rolling,Credit Card,Cancelled,Standard,439.29,robert97@stewart.com,9634807970,54291,1970-06-30
+CUST100462,2020-08-03,Fixed,PayPal,Inactive,Green,504.16,lcook@walters-smith.com,(097)545-1052x650,46602,1945-01-23
+CUST100463,2023-03-04,Variable,Credit Card,Active,Green,638.14,barbaramoore@anderson.biz,673-188-2617,46666,1957-10-27
+CUST100464,2023-01-10,Rolling,PayPal,Pending,Standard,624.02,ysanford@gmail.com,2437654562,71603,1935-11-29
+CUST100465,2022-05-17,Rolling,Credit Card,Cancelled,Standard,580.93,jessicadodson@sherman-schmidt.com,+1-417-722-5605,56317,1982-07-07
+CUST100466,2024-03-29,Fixed,Credit Card,Pending,Peak/Off-Peak,931.15,jeremywiley@anderson-reyes.org,001-313-402-6650x237,69073,1999-01-28
+CUST100467,2025-07-08,Variable,Direct Debit,Inactive,Economy,882.67,cameronwilliams@yahoo.com,+1-416-787-2568x62110,44518,1934-09-22
+CUST100468,2023-04-30,Fixed,Bank Transfer,Active,Peak/Off-Peak,476.47,ryan25@yahoo.com,(258)030-5690,15361,2001-01-16
+CUST100469,2024-07-16,Fixed,PayPal,Cancelled,Standard,133.09,frederickmeadows@yahoo.com,(744)716-3928x23414,23545,1968-04-09
+CUST100470,2024-05-05,Variable,Bank Transfer,Pending,Green,971.59,jeffreymercer@gross.net,001-363-718-9239x231,60639,1998-11-26
+CUST100471,2024-05-06,Variable,Bank Transfer,Active,Standard,731.47,richardsondebra@brooks.com,(604)326-0931,56650,1949-06-22
+CUST100472,2022-05-27,Fixed,Direct Debit,Pending,Green,831.07,stanleydesiree@williams.biz,6684335670,49406,1940-09-25
+CUST100473,2024-12-07,Variable,Bank Transfer,Pending,Peak/Off-Peak,634.44,qmartinez@yahoo.com,604.145.4563x50200,23687,1936-12-14
+CUST100474,2024-08-11,Fixed,Bank Transfer,Inactive,Peak/Off-Peak,922.96,heathermccoy@fisher-garcia.net,5347491624,72951,1974-02-22
+CUST100475,2022-01-11,Rolling,PayPal,Inactive,Peak/Off-Peak,198.43,robertroach@hotmail.com,554.110.8255x5989,78474,1965-08-28
+CUST100476,2021-04-22,Fixed,Credit Card,Pending,Green,323.41,daniel17@lynch.net,(343)961-1291x093,21820,2006-01-28
+CUST100477,2022-12-31,Rolling,PayPal,Cancelled,Economy,698.22,jade42@kelley.info,711.895.4738,71642,2003-01-24
+CUST100478,2024-12-20,Fixed,PayPal,Inactive,Economy,249.7,aaronpowers@gmail.com,001-202-368-4855x7161,57632,1957-05-10
+CUST100479,2023-06-09,Variable,Bank Transfer,Inactive,Economy,651.41,stacychan@gmail.com,688.029.4240x9036,50513,1954-07-15
+CUST100480,2021-05-19,Rolling,Bank Transfer,Inactive,Standard,606.9,dawn74@marshall-garcia.com,881.278.6866x9432,37860,1947-05-15
+CUST100481,2022-08-01,Variable,PayPal,Inactive,Standard,680.53,michael56@wilson.com,2939087884,86956,1948-03-12
+CUST100482,2023-03-24,Rolling,PayPal,Active,Green,682.07,markkline@adams.com,344-812-3083x4024,90750,1976-01-16
+CUST100483,2022-06-30,Rolling,Bank Transfer,Pending,Standard,970.13,moralessuzanne@houston-vaughn.info,(403)381-0595,89666,1980-04-09
+CUST100484,2022-04-12,Fixed,Credit Card,Active,Green,398.44,danielhorton@gmail.com,184-269-4500x53424,57844,1996-03-09
+CUST100485,2021-11-02,Fixed,Credit Card,Active,Peak/Off-Peak,816.61,perrybrittany@gregory.com,8916498373,83614,2001-05-13
+CUST100486,2020-10-16,Fixed,PayPal,Pending,Green,195.35,timothyfreeman@alexander-brown.com,439-627-3652x71727,37626,1982-04-30
+CUST100487,2020-12-23,Fixed,Credit Card,Inactive,Standard,188.75,tiffanysantiago@stone-watts.org,(239)724-0422,92525,1969-08-11
+CUST100488,2022-09-01,Variable,PayPal,Cancelled,Peak/Off-Peak,299.8,pstanley@reed-rhodes.biz,(931)216-3761x8209,81814,2000-10-18
+CUST100489,2024-08-17,Fixed,Direct Debit,Inactive,Peak/Off-Peak,772.17,smithsarah@allison.com,660-100-2314,13506,1969-02-03
+CUST100490,2021-03-16,Fixed,Bank Transfer,Inactive,Green,602.19,john40@hotmail.com,(900)185-1327,11985,1984-03-01
+CUST100491,2024-06-16,Rolling,PayPal,Inactive,Economy,718.9,ppowell@stevens.info,001-972-457-2308x48100,14107,1997-01-08
+CUST100492,2024-02-10,Variable,PayPal,Inactive,Standard,298.93,hwest@mcgee-smith.biz,841-862-0303,12250,1936-06-07
+CUST100493,2025-06-25,Variable,PayPal,Cancelled,Standard,436.71,hawkinsaaron@gmail.com,(625)436-1721x31451,85648,1982-07-31
+CUST100494,2022-03-29,Rolling,Credit Card,Active,Economy,516.76,diamondbryant@yahoo.com,+1-515-109-2268x592,02654,1975-07-28
+CUST100495,2023-11-07,Rolling,PayPal,Cancelled,Standard,711.6,velasquezmegan@yahoo.com,+1-624-945-1475x41022,81275,1980-01-04
+CUST100496,2024-10-15,Fixed,Direct Debit,Pending,Economy,721.39,jennifer11@hotmail.com,267-711-9642x15226,54408,2005-01-23
+CUST100497,2023-12-26,Variable,Credit Card,Inactive,Economy,235.67,petersonmaria@kelley-brooks.com,(576)769-5236x687,14089,2000-07-04
+CUST100498,2022-08-30,Fixed,Bank Transfer,Cancelled,Peak/Off-Peak,997.93,travisunderwood@griffith.com,+1-878-836-1968,65565,1949-12-07
+CUST100499,2021-11-03,Rolling,Direct Debit,Pending,Peak/Off-Peak,534.49,ylewis@love.biz,001-313-503-0587,98797,1971-04-29
